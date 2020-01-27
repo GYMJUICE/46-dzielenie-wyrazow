@@ -1,0 +1,10 @@
+.kwadrat {
+   width: 200px;
+   border-style: dashed;
+   border-color: red;
+   margin: 0 auto;
+   font-size: 20px;
+   word-break: break-all;
+   padding: 5px;
+
+}
